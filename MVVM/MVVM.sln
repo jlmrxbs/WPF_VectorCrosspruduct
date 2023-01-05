@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM", "MVVM.csproj", "{60ACFC41-177D-49DC-8FAF-CB21000D05CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM_UnitTests", "..\MVVM_UnitTests\MVVM_UnitTests.csproj", "{59750AC6-6BFF-43E0-88F3-D7C06CDA1891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60ACFC41-177D-49DC-8FAF-CB21000D05CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60ACFC41-177D-49DC-8FAF-CB21000D05CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60ACFC41-177D-49DC-8FAF-CB21000D05CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60ACFC41-177D-49DC-8FAF-CB21000D05CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59750AC6-6BFF-43E0-88F3-D7C06CDA1891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59750AC6-6BFF-43E0-88F3-D7C06CDA1891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59750AC6-6BFF-43E0-88F3-D7C06CDA1891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59750AC6-6BFF-43E0-88F3-D7C06CDA1891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7B89FE2-C7BF-406E-B30C-CB0A2B8FC470}
+	EndGlobalSection
+EndGlobal
